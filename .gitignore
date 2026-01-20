@@ -1,0 +1,6 @@
+#Yolo Models
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
