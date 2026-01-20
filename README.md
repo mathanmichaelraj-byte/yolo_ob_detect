@@ -3,7 +3,7 @@
 This is a simple Python script using Ultralytics YOLOv10 to detect objects from your webcam.
 
 ## Requirements
-- Python 3.14
+- Python 3.12
 - pip
 
 ## Setup
