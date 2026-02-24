@@ -8,7 +8,7 @@ This is a simple Python script using Ultralytics YOLOv10 to detect objects from 
 
 ## Setup
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 ## Run
 ```bash
